@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-EmailwriterApplication<emailwriter>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.email.emailwriter.EmailwriterApplication",
+            "projectName": "emailwriter",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
